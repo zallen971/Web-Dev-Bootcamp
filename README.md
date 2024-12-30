@@ -1,9 +1,11 @@
 # web_dev_bootcamp
 Udemy complete Web Development Bootcamp
 
-# Become a Full-Stack Web Developer with just ONE course. 
+Become a Full-Stack Web Developer with just ONE course. 
 
-# HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
+
+HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
+
 
 
 # What you'll learn
